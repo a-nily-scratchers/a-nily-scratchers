@@ -1,5 +1,13 @@
-## Hi there 👋
+## こんにちは 👋
 
+- Bluesky 
+https://bsky.app/profile/min2-host.ooguy.com
+- scratch https://scratch.mit.edu/users/a-nily
+
+東京に住んでます。
+定期的にしょうもない物を投稿してます
+
+気軽に話してね!
 <!--
 **a-nily-scratchers/a-nily-scratchers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
