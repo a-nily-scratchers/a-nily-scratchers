@@ -1,8 +1,7 @@
 ## こんにちは 👋
 
-- Bluesky 
-https://bsky.app/profile/min2-host.ooguy.com
-- scratch https://scratch.mit.edu/users/a-nily
+- Bluesky https://bsky.app/profile/min2-host.ooguy.com
+- scratch [@a-nily] (https://scratch.mit.edu/users/a-nily)
 
 東京に住んでます。
 定期的にしょうもない物を投稿してます
